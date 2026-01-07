@@ -1,0 +1,5 @@
+./.github/ISSUE_TEMPLATE.md
+./AGENTS.md
+./README.md
+./.travis/run-tests.sh
+./extensions/README.md

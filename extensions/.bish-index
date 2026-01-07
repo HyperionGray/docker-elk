@@ -1,0 +1,6 @@
+./apm-server/README.md
+./README.md
+./curator/entrypoint.sh
+./curator/README.md
+./logspout/README.md
+./logspout/build.sh
